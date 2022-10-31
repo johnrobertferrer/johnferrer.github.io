@@ -58,7 +58,7 @@ export default {
           text-gray-400
         "
       >
-        A Senior Software Engineer | Cloud Engineer | 3 x AWS Certified
+        Senior Software Engineer | Cloud Engineer | 3 x AWS Certified
       </p>
       <div class="flex justify-center sm:block">
         <a
