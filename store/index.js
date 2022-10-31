@@ -9,7 +9,7 @@ export const state = () => ({
       id: 'dms',
       title: "Document Management System",
       category: "Web Application",
-      img: "images/dms/1-min.png",
+      img: "images/dms 00-min.webp",
       publishDate: "October, 2022",
       tag: "Web App Development",
       clientTitle: "About Client",
@@ -20,17 +20,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/dms/1-min.png",
+          img: "../images/dms 00-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/dms/2-min.png",
+          img: "../images/dms 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/dms/3-min.png",
+          img: "../images/dms 02-min.webp",
         },
       ],
       companyInfos: [
@@ -101,7 +101,7 @@ export const state = () => ({
       id: 'housepass',
       title: "HousePass",
       category: "Web Application",
-      img: "images/housepass/housepass 00-min.png",
+      img: "images/housepass 00-min.webp",
       publishDate: "September, 2022",
       tag: "Web App Development",
       clientTitle: "About Client",
@@ -112,17 +112,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/housepass/housepass 00-min.png",
+          img: "../images/housepass 00-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/housepass/housepass 02-min.png",
+          img: "../images/housepass 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/housepass/housepass 03-min.png",
+          img: "../images/housepass 03-min.webp",
         },
       ],
       companyInfos: [
@@ -186,7 +186,7 @@ export const state = () => ({
       id: 'sona-2022',
       title: "SONA 2022 Website",
       category: "Website",
-      img: "images/sona/sona 00-min.jpg",
+      img: "images/sona 00-min.webp",
       publishDate: "July, 2022",
       tag: "Website",
       clientTitle: "About Client",
@@ -197,17 +197,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/sona/sona 01-min.png",
+          img: "../images/sona 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/sona/sona 02-min.png",
+          img: "../images/sona 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/sona/sona 03-min.png",
+          img: "../images/sona 03-min.webp",
         },
       ],
       companyInfos: [
@@ -266,7 +266,7 @@ export const state = () => ({
       id: 'national-canvassing',
       title: "National Canvassing of Elections",
       category: "Web Application",
-      img: "images/canvass/canvass 00-min.png",
+      img: "images/canvass 00-min.webp",
       publishDate: "May, 2022",
       tag: "Web App Development",
       clientTitle: "About Client",
@@ -277,17 +277,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/canvass/canvass 01-min.png",
+          img: "../images/canvass 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/canvass/canvass 02-min.png",
+          img: "../images/canvass 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/canvass/canvass 03-min.png",
+          img: "../images/canvass 03-min.webp",
         },
       ],
       companyInfos: [
@@ -351,7 +351,7 @@ export const state = () => ({
       id: 'halalan2022-infosite',
       title: "Halalan 2022 - Infosite",
       category: "Website",
-      img: "images/infosite/infosite 00-min.png",
+      img: "images/infosite 00-min.webp",
       publishDate: "May, 2022",
       tag: "Website",
       clientTitle: "About Client",
@@ -362,17 +362,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/infosite/infosite 01-min.png",
+          img: "../images/infosite 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/infosite/infosite 02-min.png",
+          img: "../images/infosite 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/infosite/infosite 03-min.png",
+          img: "../images/infosite 03-min.webp",
         },
       ],
       companyInfos: [
@@ -432,7 +432,7 @@ export const state = () => ({
       id: 'cirms',
       title: "Cloud Inventory Retail Management",
       category: "Web Application",
-      img: "images/cirms/cirms 00-min.png",
+      img: "images/cirms 00-min.webp",
       publishDate: "April, 2018",
       tag: "Web App Development",
       clientTitle: "About Client",
@@ -443,17 +443,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/cirms/cirms 01-min.png",
+          img: "../images/cirms 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/cirms/cirms 02-min.png",
+          img: "../images/cirms 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/cirms/cirms 03-min.png",
+          img: "../images/cirms 03-min.webp",
         },
       ],
       companyInfos: [
@@ -512,7 +512,7 @@ export const state = () => ({
       id: 'subscription-system',
       title: "Subscription System",
       category: "Web Application",
-      img: "images/subscription/subscription 00-min.png",
+      img: "images/subscription 00-min.webp",
       publishDate: "October, 2019",
       tag: "Web App Development",
       clientTitle: "About Client",
@@ -523,17 +523,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/subscription/subscription 01-min.png",
+          img: "../images/subscription 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/subscription/subscription 02-min.png",
+          img: "../images/subscription 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/subscription/subscription 03-min.png",
+          img: "../images/subscription 03-min.webp",
         },
       ],
       companyInfos: [
@@ -593,7 +593,7 @@ export const state = () => ({
       id: 'kolours-website',
       title: "Kolours Official Website",
       category: "Content Management System",
-      img: "images/kolours/kolours 00-min.png",
+      img: "images/kolours 00-min.webp",
       publishDate: "September, 2020",
       tag: "Content Management System",
       clientTitle: "About Client",
@@ -604,17 +604,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/kolours/kolours 01-min.png",
+          img: "../images/kolours 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/kolours/kolours 02-min.png",
+          img: "../images/kolours 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/kolours/kolours 03-min.png",
+          img: "../images/kolours 03-min.webp",
         },
       ],
       companyInfos: [
@@ -671,7 +671,7 @@ export const state = () => ({
       id: 'hisense-website',
       title: "Hisense Official Website",
       category: "Content Management System",
-      img: "images/hisense/hisense 00-min.png",
+      img: "images/hisense 00-min.webp",
       publishDate: "December, 2020",
       tag: "Content Management System",
       clientTitle: "About Client",
@@ -682,17 +682,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/hisense/hisense 01-min.png",
+          img: "../images/hisense 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/hisense/hisense 02-min.png",
+          img: "../images/hisense 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/hisense/hisense 03-min.png",
+          img: "../images/hisense 03-min.webp",
         },
       ],
       companyInfos: [
@@ -749,7 +749,7 @@ export const state = () => ({
       id: 'hygienix-website',
       title: "Hygienix Official Website",
       category: "Content Management System",
-      img: "images/hygienix/hygienix 00-min.png",
+      img: "images/hygienix 00-min.webp",
       publishDate: "June, 2020",
       tag: "Content Management System",
       clientTitle: "About Client",
@@ -760,17 +760,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/hygienix/hygienix 01-min.png",
+          img: "../images/hygienix 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/hygienix/hygienix 02-min.png",
+          img: "../images/hygienix 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/hygienix/hygienix 03-min.png",
+          img: "../images/hygienix 03-min.webp",
         },
       ],
       companyInfos: [
@@ -827,7 +827,7 @@ export const state = () => ({
       id: 'trashven',
       title: "TrashVen",
       category: "Internet of Things (IOT)",
-      img: "images/trashven/trashven 00-min.jpeg",
+      img: "images/trashven 00-min.webp",
       publishDate: "January, 2019",
       tag: "Internet of Things (IOT)",
       clientTitle: "About Client",
@@ -838,17 +838,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/trashven/trashven 01-min.jpg",
+          img: "../images/trashven 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/trashven/trashven 02-min.jpg",
+          img: "../images/trashven 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/trashven/trashven 03-min.jpg",
+          img: "../images/trashven 03-min.webp",
         },
       ],
       companyInfos: [
@@ -902,7 +902,7 @@ export const state = () => ({
       id: 'room-management-system',
       title: "Room Management System",
       category: "Web Application",
-      img: "images/rms/rms 00-min.webp",
+      img: "images/rms 00-min.webp",
       publishDate: "April, 2018",
       tag: "Web App Development",
       clientTitle: "About Client",
@@ -913,17 +913,17 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Login Page",
-          img: "../images/rms/rms 01-min.webp",
+          img: "../images/rms 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/rms/rms 02-min.webp",
+          img: "../images/rms 02-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/rms/rms 03-min.webp",
+          img: "../images/rms 03-min.webp",
         },
       ],
       companyInfos: [
