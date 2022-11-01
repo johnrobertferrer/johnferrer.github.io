@@ -29,6 +29,14 @@ export default {
     <div v-if="project">
       <!-- Project heading and meta info -->
       <div>
+        <nav class="rounded-md w-full mt-6 sm:mt-8">
+          <ol class="list-reset flex">
+            <li><NuxtLink :to="{name: 'projects'}" class="font-general-medium text-base sm:text-lg text-blue-600 hover:text-blue-700">Projects</NuxtLink></li>
+            <li><span class="font-general-medium text-base sm:text-lg text-gray-500 mx-2">/</span></li>
+            <li class="font-general-medium text-base sm:text-lg text-gray-500"> {{ project.title }} </li>
+          </ol>
+        </nav>
+
         <p
           class="
             font-general-medium
@@ -37,8 +45,8 @@ export default {
             font-bold
             text-primary-dark
             dark:text-primary-light
-            mt-14
-            sm:mt-20
+            mt-10
+            sm:mt-12
             mb-7
           "
         >

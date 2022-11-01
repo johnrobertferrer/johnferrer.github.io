@@ -117,12 +117,12 @@ export const state = () => ({
         {
           id: uuidv4(),
           title: "Document Search List",
-          img: "../images/housepass 02-min.webp",
+          img: "../images/housepass 01-min.webp",
         },
         {
           id: uuidv4(),
           title: "Dashboard Page",
-          img: "../images/housepass 03-min.webp",
+          img: "../images/housepass 02-min.webp",
         },
       ],
       companyInfos: [
