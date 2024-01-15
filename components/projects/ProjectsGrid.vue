@@ -113,6 +113,8 @@ export default {
               pr-1
               sm:px-4
               py-2
+              w-full
+              sm:w-auto
               border-1 border-gray-200
               dark:border-secondary-dark
               rounded-lg
